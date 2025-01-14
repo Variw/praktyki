@@ -15,6 +15,7 @@
     "l8": "node src/es/lekcja8/main.js",
     "l9": "node src/es/lekcja9/main.js",
     "l10": "node src/es/lekcja10/main.js",
-    "f1": "node src/es/zadania/zadanie1/main.js"
+    "f1": "node src/es/zadania/zadanie1/main.js",
+    "l11": "node src/es/lekcja11/main.js"
   }
 }

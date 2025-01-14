@@ -16,5 +16,4 @@ for(let i = 0; i < Object.keys(obj).length; i++){
     }
 
     console.log(`Key: ${key}\nDescription: ${descriptor}\n`);
-
 }
