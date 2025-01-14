@@ -12,7 +12,7 @@
 //2.1
 let zmienna = 5;
 const STALA = 13;
-
+console.log(`Zmiena: ${zmienna}, stała: ${STALA}`);
 //2.2
 const name_ = "Janek";
 console.log(`Witaj, ${name_}!`);
