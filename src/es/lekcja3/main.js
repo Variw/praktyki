@@ -1,6 +1,6 @@
 "use strict";
 /*
- Nowe funkcje w ES7
+ Nowe zadania w ES7
  3.1. Array.prototype.includes – łatwiejsze sprawdzanie wartości
  3.2. Exponentiation Operator (**) – potęgowanie
 */

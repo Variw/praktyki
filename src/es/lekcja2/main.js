@@ -1,7 +1,7 @@
 "use strict";
 /*
  ES6 wprowadził ogromne zmiany, m.in. klasy, let i const,
- funkcje strzałkowe, destrukturyzację i moduły.
+ zadania strzałkowe, destrukturyzację i moduły.
  2.1. let i const – nowe sposoby deklaracji zmiennych
  2.2. Szablony stringów (Template Literals)
  2.3. Funkcje strzałkowe (Arrow Functions)

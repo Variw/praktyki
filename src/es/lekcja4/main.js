@@ -1,6 +1,6 @@
 "use strict";
 /*
- Nowe funkcje w ES8
+ Nowe zadania w ES8
  4.1. async/await – nowy sposób obsługi asynchroniczności
  4.2. Object.entries i Object.values – łatwa iteracja po obiektach
 */

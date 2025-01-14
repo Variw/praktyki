@@ -1,6 +1,6 @@
 "use strict";
 /*
-  Nowe funkcje w ES13 i nowsze
+  Nowe zadania w ES13 i nowsze
   9.1. Array.prototype.at()
   9.2. Object.hasOwn() – zamiast hasOwnProperty
 */
