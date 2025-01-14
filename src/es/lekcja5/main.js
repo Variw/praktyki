@@ -1,6 +1,6 @@
 "use strict";
 /*
- 5: Nowe funkcje w ES9
+ 5: Nowe zadania w ES9
  5.1. Rest/Spread Operator (...) dla obiektów
 */
 

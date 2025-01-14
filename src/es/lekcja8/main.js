@@ -1,6 +1,6 @@
 "use strict";
 /*
- Nowe funkcje w ES12
+ Nowe zadania w ES12
  8.1. String.prototype.replaceAll()
  8.2. Logical Assignment Operators (&&=, ||=, ??=)
 */

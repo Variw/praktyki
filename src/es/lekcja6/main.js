@@ -1,6 +1,6 @@
 "use stict";
 /*
-  Nowe funkcje w ES10
+  Nowe zadania w ES10
   6.1. Array.prototype.flat() – spłaszczanie tablic
   6.2. Object.fromEntries() – tworzenie obiektu z tablicy
 */

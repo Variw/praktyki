@@ -11,7 +11,10 @@ let descriptor;
 for(let i = 0; i < Object.keys(obj).length; i++){
         key = Object.keys(obj).at(i);
     descriptor = Object.getOwnPropertyDescriptor(obj, key);
-    descriptor.toString = () =>
-        `{\n   configurable: ${descriptor.configurable},\n   enumerable: ${descriptor.enumerable},\n   writable: ${descriptor.writable},\n   value: ${descriptor.value}\n}`;
+    descriptor.toString = function ()  {
+        return `{\n   configurable: ${this.configurable},\n   enumerable: ${this.enumerable},\n   writable: ${this.writable},\n   value: ${this.value}\n}`;
+    }
+
     console.log(`Key: ${key}\nDescription: ${descriptor}\n`);
+
 }

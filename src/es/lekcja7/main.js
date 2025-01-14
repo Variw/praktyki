@@ -1,6 +1,6 @@
 "use strict";
 /*
-  Nowe funkcje w ES11
+  Nowe zadania w ES11
   7.1. Nullish Coalescing Operator (??)
   7.2. Optional Chaining (?.)
 */
