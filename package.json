@@ -1,7 +1,19 @@
 {
   "name": "praktyka",
   "version": "1.0.0",
-  "author": "Konrad Jachorek Email: jako03@wp.pl",
+  "author": "Konrad Jachorek, Email: jako03@wp.pl",
   "description": "Projekt tworzony na praktykach",
-  "licence": "MIT"
+  "licence": "MIT",
+  "scripts": {
+    "l1": "node src/es/lekcja1/main.js",
+    "l2": "node src/es/lekcja2/main.js",
+    "l3": "node src/es/lekcja3/main.js",
+    "l4": "node src/es/lekcja4/main.js",
+    "l5": "node src/es/lekcja5/main.js",
+    "l6": "node src/es/lekcja6/main.js",
+    "l7": "node src/es/lekcja7/main.js",
+    "l8": "node src/es/lekcja8/main.js",
+    "l9": "node src/es/lekcja9/main.js",
+    "l10": "node src/es/lekcja10/main.js"
+  }
 }
