@@ -23,6 +23,9 @@
     "l15": "node src/es/lekcja15/main.js",
     "l16": "node src/es/lekcja16/main.js",
     "l17": "node src/es/lekcja17/main.js",
-    "f2": "node src/es/zadania/zadanie2/main.js"
+    "f2": "node src/es/zadania/zadanie2/main.js",
+    "l18": "node src/es/lekcja18/main.js",
+    "l19": "node src/es/lekcja19/main.js"
+
   }
 }
