@@ -22,9 +22,7 @@
     "l14": "node src/es/lekcja14/main.js",
     "l15": "node src/es/lekcja15/main.js",
     "l16": "node src/es/lekcja16/main.js",
-    "l17": "node src/es/lekcja17/main.js"
-
-
-
+    "l17": "node src/es/lekcja17/main.js",
+    "f2": "node src/es/zadania/zadanie2/main.js"
   }
 }
