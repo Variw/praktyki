@@ -16,6 +16,15 @@
     "l9": "node src/es/lekcja9/main.js",
     "l10": "node src/es/lekcja10/main.js",
     "f1": "node src/es/zadania/zadanie1/main.js",
-    "l11": "node src/es/lekcja11/main.js"
+    "l11": "node src/es/lekcja11/main.js",
+    "l12": "node src/es/lekcja12/main.js",
+    "l13": "node src/es/lekcja13/main.js",
+    "l14": "node src/es/lekcja14/main.js",
+    "l15": "node src/es/lekcja15/main.js",
+    "l16": "node src/es/lekcja16/main.js",
+    "l17": "node src/es/lekcja17/main.js"
+
+
+
   }
 }
