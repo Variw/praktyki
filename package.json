@@ -28,8 +28,13 @@
     "l20": "node src/es/lekcja19/main.js",
     "l21": "node src/es/lekcja20/main.js",
     "l22": "node src/es/lekcja21/main.js",
-    "l23": "node src/es/lekcja22/main.js"
-
+    "l23": "node src/es/lekcja22/main.js",
+    "ts1": "ts-node src/ts/lekcja1/main.ts",
+    "ts2": "ts-node src/ts/lekcja2/main.ts",
+    "ts3": "ts-node src/ts/lekcja3/main.ts"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3"
   }
-
 }
