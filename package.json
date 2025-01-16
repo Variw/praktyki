@@ -25,7 +25,10 @@
     "l17": "node src/es/lekcja17/main.js",
     "f2": "node src/es/zadania/zadanie2/main.js",
     "l18": "node src/es/lekcja18/main.js",
-    "l19": "node src/es/lekcja19/main.js"
+    "l20": "node src/es/lekcja19/main.js",
+    "l21": "node src/es/lekcja20/main.js",
+    "l22": "node src/es/lekcja21/main.js",
+    "l23": "node src/es/lekcja22/main.js"
 
   }
 
