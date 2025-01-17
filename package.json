@@ -31,7 +31,10 @@
     "l23": "node src/es/lekcja22/main.js",
     "ts1": "ts-node src/ts/lekcja1/main.ts",
     "ts2": "ts-node src/ts/lekcja2/main.ts",
-    "ts3": "ts-node src/ts/lekcja3/main.ts"
+    "ts3": "ts-node src/ts/lekcja3/main.ts",
+    "ts4": "ts-node src/ts/lekcja4/main.ts",
+    "ts5": "ts-node src/ts/lekcja5/main.ts",
+    "ts6": "ts-node src/ts/lekcja6/main.ts"
   },
   "devDependencies": {
     "ts-node": "^10.9.2",
